@@ -1,5 +1,5 @@
 # 🏷️ OPERATION BITCOIN
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Operation%20Bitcoin/OpBitLogoRound.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/a7c06e02ae39a1e059f9adcdc50044f9a7383c42/United%20States%20--%20Operation%20Bitcoin/OpBitLogoRound.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** United States
@@ -9,7 +9,7 @@ Our mission is to introduce, educate, equip, and motivate military veterans to h
 
 ## 👥 Our Team
 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United States -- Operation Bitcoin/BitcoinNeedsWarriors.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/a7c06e02ae39a1e059f9adcdc50044f9a7383c42/United%20States%20--%20Operation%20Bitcoin/BitcoinNeedsWarriors.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** Coming Q2 2024
