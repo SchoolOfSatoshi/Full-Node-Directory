@@ -1,5 +1,5 @@
 # 🏷️ Mi Primer Bitcoin - El Salvador
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/El%20Salvador%20--%20MPB/Logo%20MPB%20Assets-3.png?raw=true" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/60883b7761cde805fc7d23471db7d5dffc7518ca/El%20Salvador%20--%20MPB/Logo%20MPB%20Assets-3.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** El Salvador
@@ -9,7 +9,7 @@
 Mi Primer Bitcoin - El Salvador was the first node of the network. We strive to provide independent, impartial, open-source Bitcoin education to the world. We started with El Salvador to show an example of what's possible.
 
 ## 👥 Our Team
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/El%20Salvador%20--%20MPB/MPB%20Core%20Team.jpg?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/60883b7761cde805fc7d23471db7d5dffc7518ca/El%20Salvador%20--%20MPB/MPB%20Core%20Team.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:**
