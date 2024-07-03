@@ -1,5 +1,5 @@
 # 🏷️ The Core - Bitcoin Education
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/6adca1ba1b689c7c1fe5ede51b7f850e12e0f19b/Kenya%20--%20The%20Core/The%20Core.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/58ec0b5966c249024e7f1126929bcadcffe90569/Kenya%20--%20The%20Core/The%20Core.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Kenya
@@ -35,7 +35,7 @@ Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's 
 Christopher Mawaniki (Kenyan): IT/Technical Depertement
 
 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/46fa572b4d8450cffd99833002bc070b4695ed25/Kenya%20--%20The%20Core/20230916183527_IMG_3386.JPG.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/58ec0b5966c249024e7f1126929bcadcffe90569/Kenya%20--%20The%20Core/20230916183527_IMG_3386.JPG.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🥇 OBJECTIVES 
 ### 1 ONLINE BITCOIN EDUCATION | BITCOIN DIPLOMA 
