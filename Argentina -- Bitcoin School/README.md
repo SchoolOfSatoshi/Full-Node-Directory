@@ -11,7 +11,7 @@ We are providing free, independent, impartial Bitcoin education to the people of
 ## 👥 Our Team
 - Trevor Schrock, Founder
   
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Argentina%20%20--%20Bitcoin%20School/Founder%20Snapshot.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/980b56c59890e3953a65365a135b8f101f40f5af/Argentina%20--%20Bitcoin%20School/Founder%20Snapshot.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** June 2024
