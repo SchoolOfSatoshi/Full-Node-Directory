@@ -1,5 +1,5 @@
 # 🏷️ Bitcoin Policy U.K. 'Next-Gen'
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="[https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/main/United%20Kingdom%20--%20BPUK/Materials/Bitcoin%20Policy%20UK%20-%20RGB%20-%20White.png]" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** England, U.K.
