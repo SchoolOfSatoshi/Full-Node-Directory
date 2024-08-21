@@ -35,6 +35,5 @@ We are fortunate to have an excellent team of pedagogical experts in the fields 
 
 - **Website:** https://www.bitcoinpolicy.uk/next-gen
 - **Email:** matt@bitcoinpolicy.uk huxleydarwin@proton.me
-- **WhatsApp:** N/A
 - **Telegram:** @Hux13yD @itsmeamatt
 - **Phone:** N/A
