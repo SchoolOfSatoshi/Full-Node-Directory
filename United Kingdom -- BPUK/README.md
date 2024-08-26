@@ -1,6 +1,8 @@
 # 🏷️ Bitcoin Policy U.K. 'Next-Gen'
 <img src= "https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/1f9720d22693db6e1e1986bfcd7bfc0d07b13838/United%20Kingdom%20--%20BPUK/Materials/Bitcoin%20Policy%20UK%20-%20RGB.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
+<img src= "https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/d36af9c75c748d5d5a869e3cb88c6311926715ef/United%20Kingdom%20--%20BPUK/Materials/Bitcoin%20Policy%20UK%20-%20RGB%20-%20White.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+
 ## 📍 Location
 - **Country:** England, U.K.
 - **City:** London
