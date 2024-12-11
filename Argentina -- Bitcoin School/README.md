@@ -26,9 +26,12 @@ We are providing free, independent, impartial Bitcoin education to the people of
 - US-based entity formed, pursuing non-profit status May 2024
 - "Bitcoin Book Club" via Telegram launch (first book: "21 Lessons" by Gigi), May 2024  
 - Website is now live! (June 2024); more features coming soon
+- Educational Center opens doors! (November 2024)
+- Bitcoin-centric co-working begins (November 2024) 
+- Bitcoin School Lecture Series begins (November 2024) 
 
 ## 📞 Contact Information
-- **Linktree:** https://linktr.ee/bitcoinschoolar
+https://bitcoinschoolar.com/#contacto
   
 ## 💰 Official Donation Link
 Support our activities by donating through https://geyser.fund/project/bitcoinschoolargentina.
