@@ -1,5 +1,5 @@
 # 🏷️ Bitcoin Indonesia & Bitcoin House Bali
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/37ba241682749014b3cab8c5f991dc22f200bb6d/Indonesia%20--%20Bitcoin%20Indonesia/Bitcoin%20Indonesia%20Logo%20Black%20Font.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/cc253c9fd1a279ca567a57836e65c529c4f223ee/Indonesia%20--%20Bitcoin%20Indonesia/Bitcoin%20Indonesia%20Logo%20Black%20Font.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 ## 📍 Location
 - **Country:** Indonesia
 - **City:** Nation-wide, Focus: Bali (Canggu)
@@ -10,7 +10,7 @@ Bitcoin Indonesia is a Bitcoin-only initiative dedicated to empowering Indonesia
 ## 👥 Our Team
 Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius (from Germany), Dimas (from Indonesia) & Petras (from Lithuania). However, now there are around 21 local community leaders & volunteers from Indonesia and abroad who contribute to the project by running meetups, growing local communities, writing articles for the education hub, etc.
 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Indonesia%20--%20Bitcoin%20Indonesia/Community%20Banner.png" width="600" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/cc253c9fd1a279ca567a57836e65c529c4f223ee/Indonesia%20--%20Bitcoin%20Indonesia/Community%20Banner.png" width="600" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** 4
@@ -23,8 +23,8 @@ Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius 
 - **Translation, Workbook & Assessment**: We finalized the translation to Bahasa Indonesia and also created the workbook in Canva. Also, we created 150 multiple choice questions for MFB assessments in Bahasa and English as well as a final exam.
 - **Outlook** Cohort in Surabaya will start in January 2025. Also we're in contact we will start teaching 3 different cohorts at a University in Bandung and are in discussions with 2 other universities across the country. 
 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/b42c0dbdc981a7713c64935dbe3d5bc5e892e215/Indonesia%20--%20Bitcoin%20Indonesia/Bandung%20MFB%201st%20Cohort.jpeg" width="300" alt="Picture of Bandung Cohort"> <!-- 1 picture maximum -->
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Indonesia%20--%20Bitcoin%20Indonesia/People.webp" width="300" alt="Picture of Bali Cohort"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/9aa6604b1c0038b42ac76175b9677ab660a56ef8/Indonesia%20--%20Bitcoin%20Indonesia/Bandung%20MFB%201st%20Cohort.jpeg" width="300" alt="Picture of Bandung Cohort"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/cc253c9fd1a279ca567a57836e65c529c4f223ee/Indonesia%20--%20Bitcoin%20Indonesia/People.webp" width="300" alt="Picture of Bali Cohort"> <!-- 1 picture maximum -->
 
 
 ## 📞 Contact Information
