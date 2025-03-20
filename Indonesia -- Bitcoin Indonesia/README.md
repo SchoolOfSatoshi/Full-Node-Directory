@@ -13,15 +13,17 @@ Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius 
 <img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/73a2a94ea6f83e86071fe4a97787e63ce448376f/Indonesia%20--%20Bitcoin%20Indonesia/Community%20Banner.png" width="600" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** 4
-- **Number of Students Graduated:** 57
+- **Dates of Graduations:** 7
+- **Number of Students Graduated:** 132
 
 ## 🏆 Recent Achievements
-- **Bandung**: We run two cohorts in Bandung
-- **Bali**: We started our second cohort in Bali in Dec 2024. One of our prior graduates is now co-teacher for the new cohort.
-- **Online**: We run an online class, prioneering with the new LMS system and graduated 38 Indonesians.
+- **Bandung**: We graduated two cohorts in Bandung.
+- **Bali**: We graduated our our second cohort in Bali in February 2025. One of our prior graduates was the co-teacher. Now we're planning the first Indonesian cohort for Bali and a university cohort..
+- **Online**: We're currently running our 2nd online class.
+- **Surabaya**: We just graduated 17 students from our first cohort. 
+- **Telkom University**: We started teaching MFB at the university with 2 cohorts, 60 people - students earn credit points for this, which makes Bitcoin part of their curriculum.
 - **Translation, Workbook & Assessment**: We finalized the translation to Bahasa Indonesia and also created the workbook in Canva. Also, we created 150 multiple choice questions for MFB assessments in Bahasa and English as well as a final exam.
-- **Outlook** Cohort in Surabaya will start in January 2025. Also we're in contact we will start teaching 3 different cohorts at a University in Bandung and are in discussions with 2 other universities across the country. 
+- **Outlook** We're currently training our community leaders in other cities on the diploma so that they can also start teaching soon. Plus, we're happy to be a full node now. 
 
 <img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/73a2a94ea6f83e86071fe4a97787e63ce448376f/Indonesia%20--%20Bitcoin%20Indonesia/Bandung%20MFB%201st%20Cohort.jpeg" width="300" alt="Picture of Bandung Cohort"> <!-- 1 picture maximum -->
 <img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/73a2a94ea6f83e86071fe4a97787e63ce448376f/Indonesia%20--%20Bitcoin%20Indonesia/People.webp" width="300" alt="Picture of Bali Cohort"> <!-- 1 picture maximum -->
