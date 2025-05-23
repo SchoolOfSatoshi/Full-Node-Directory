@@ -1,6 +1,3 @@
-<!-- README for the **Full Node Directory** repo  
-     Markup only – _no original wording altered_ -->
-
 ## 📖 About Us
 
 Mi Primer Bitcoin – El Salvador was the first node of the network where everything began. Our mission is to provide independent, impartial, open-source Bitcoin education to the world. What began in El Salvador, is an example of showing what really is possible. We believe in distributing power, not concentrating it; that’s why we created the independent educators Node Network - a movement where individuals and communities from all over the world join in to create and share their knowledge and passion for Bitcoin education in their own community.
@@ -49,7 +46,7 @@ These recent milestones remind us how powerful grassroots efforts can be. We’r
 
 ## 📞 Contact Information
 
-If you’d like to get in touch with us, feel free to visit our website at <https://www.miprimerbitcoin.io> or send us an email at **info@miprimerbitcoin.io** - we look forward to hearing from you!
+If you’d like to get in touch with us, feel free to visit our website at [www.miprimerbitcoin.io](https://www.miprimerbitcoin.io) or send us an email at **info@miprimerbitcoin.io** - we look forward to hearing from you!
 
 ---
 
@@ -57,7 +54,7 @@ If you’d like to get in touch with us, feel free to visit our website at <http
 
 You can support our mission through the following official donation pages:
 
-- <https://myfirstbitcoin.io/grassroot-donation>  
-- <https://geyser.fund/project/miprimerbitcoin>
+- [myfirstbitcoin.io/grassroot-donation](https://myfirstbitcoin.io/grassroot-donation)  
+- [geyser.fund/project/miprimerbitcoin](https://geyser.fund/project/miprimerbitcoin)
 
 Thanks to your generous support – whether big or small – we’re able to continue expanding Bitcoin education around the world. We are deeply grateful for every contribution!
