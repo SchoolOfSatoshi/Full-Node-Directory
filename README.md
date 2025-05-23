@@ -18,7 +18,7 @@ At My First Bitcoin, we have an international, diverse, passionate, and talented
 
 At My First Bitcoin, education is the foundation of freedom. Since our launch in El Salvador, we've grown into a global movement - reaching over 35,000 students through in-person education. Our open-source, grassroots model has proven that when communities are empowered with financial literacy, real change follows.
 
-In 2025, we continue to scale our mission: Explore our Education Impact Sheet to see the latest numbers and milestones from this year. A proof that Bitcoin education is transforming lives around the world.
+In 2025, we continue to scale our mission: Explore our [Education Impact Sheet](https://myfirstbitcoin.io/educational-impact/) to see the latest numbers and milestones from this year. A proof that Bitcoin education is transforming lives around the world.
 
 ---
 
@@ -26,15 +26,15 @@ In 2025, we continue to scale our mission: Explore our Education Impact Sheet to
 
 At the heart of our mission is the belief that Bitcoin education should be accessible to everyone. That’s why we’re building a global movement to empower educators and students with free, open-source tools and resources.
 
-Through the Node Network and our open community, we're creating a space where anyone, anywhere can learn about Bitcoin and start teaching others. Whether you're just getting started or already sharing your knowledge, the My First Bitcoin Community Hub is your go-to place to connect, exchange ideas, and grow together. It’s where collaboration happens, support flows freely, and the next generation of Bitcoin educators takes shape.
+Through the Node Network and our open community, we're creating a space where anyone, anywhere can learn about Bitcoin and start teaching others. Whether you're just getting started or already sharing your knowledge, the My First Bitcoin [Community Hub](https://network.myfirstbitcoin.io/) is your go-to place to connect, exchange ideas, and grow together. It’s where collaboration happens, support flows freely, and the next generation of Bitcoin educators takes shape.
 
-We’re proud to launch the Bitcoin Diploma 2025 edition of our flagship 10-week program. Now stronger, sharper, and more relevant than ever. This updated version builds on years of global implementation and impact, offering a comprehensive deep dive into Bitcoin’s origins, its underlying technology, and the transformative role it plays in today’s world.
+We’re proud to launch the Bitcoin [Diploma 2025 edition](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025) of our flagship 10-week program. Now stronger, sharper, and more relevant than ever. This updated version builds on years of global implementation and impact, offering a comprehensive deep dive into Bitcoin’s origins, its underlying technology, and the transformative role it plays in today’s world.
 
 Whether you're a curious beginner or a passionate advocate, the Bitcoin Diploma 2025 equips you with the knowledge and tools to truly understand how Bitcoin works — and why it matters. Explore real-world case studies, historical insights, and the global momentum behind this monetary revolution.
 
 Our Teacher Certification Program in Paraguay, created together @Penguin, has officially finished its pilot phase. This means we’ve successfully trained local educators who are now ready to teach Bitcoin in their own communities - a big step forward!
 
-At the same time, we’ve launched our new Intro Course and Online School, making it even easier for people around the world to start learning about Bitcoin at their own pace.
+At the same time, we’ve launched our new [Intro Course](https://myfirstbitcoin.io/bitcoin-intro-course/) and [Online School](https://edu.myfirstbitcoin.io/course/curso-de-introduccion), making it even easier for people around the world to start learning about Bitcoin at their own pace.
 
 Here in El Salvador, we continue teaching on the ground, connecting with students and communities directly. It’s amazing to see how much interest and curiosity there is.
 
