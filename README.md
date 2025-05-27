@@ -25,6 +25,4 @@ Not all Light Nodes will take this step – it requires dedication. To apply, yo
 - 🗳️ Willingness to participate in governance and support other nodes  
 - ⏳ Be a Light Node for at least six months
 
----
-
 🔗 [**Apply here**](https://network.myfirstbitcoin.io/t/14-apply-to-join-the-node-network/41)
