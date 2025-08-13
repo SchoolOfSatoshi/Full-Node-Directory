@@ -6,28 +6,30 @@
 - **City:** Kampala
 
 ## 📖 About Us
-School of Satoshi is a Ugandan education platform/program focused on empowering Ugandans through comprehensive Bitcoin education delivered in the most commonly spoken native/local languages
+School of Satoshi is a Ugandan based education program focused on empowering Ugandans through comprehensive Bitcoin education delivered in the most commonly spoken native/local languages
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+We’re a dedicated team committed to sharing Bitcoin knowledge, inspiring curiosity, and empowering our community to take charge of their financial future, and contribute to the growth and sustainability of our Bitcoin circular economy.
 <img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/0720cf6dab5339d7187b5c55f298845c38b71125/Uganda%20--%20School%20of%20Satoshi/first%20graduation.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:**
-  First cohort Graduation
-  17/08/2024
-  31/08/2024
-- **Number of Students Graduated:** Total of 7 students graduated
+  17th August 2024
+  11th December 2024
+  29th March 2025
+  07th August 2025
+  
+- **Number of Students Graduated:** Total: 38 students graduated
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+One of our most exciting recent achievements is the launch of Bitcoin Kiboozi; a street-interview series where we take Bitcoin conversations directly to the people. In Uganda, ‘kiboozi’ means a casual chat, and that’s exactly what we aim for: open, relatable discussions about Bitcoin, money, and the changes we see in our economy. Through these conversations, we’ve connected with everyday Ugandans, especially university students, listening to their stories, their challenges, and their hopes for the future. It’s our way of making Bitcoin education real, local, and human.
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
+- **Website:** https://www.schoolofsatoshi.co/
 - **Email:** schoolofsatoshi016@gmail.com
-- **WhatsApp:** +256 726489374
+- **WhatsApp:** +256 726489374/ +256 703523137
 - **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Phone:** +256 702233740/ +256 778782093
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through schoolofsatoshiuganda@geyser.fund
