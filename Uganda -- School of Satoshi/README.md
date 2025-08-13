@@ -10,7 +10,7 @@ School of Satoshi is a Ugandan education program focused on empowering Ugandans 
 
 ## 👥 Our Team
 We’re a dedicated team committed to sharing Bitcoin knowledge, inspiring curiosity, and empowering our community to take charge of their financial future, and contribute to the growth and sustainability of our Bitcoin circular economy.
-<https://github.com/SchoolOfSatoshi/Full-Node-Directory/blob/main/Uganda%20--%20School%20of%20Satoshi/20250809_145122_Original.jpg> <!-- 1 picture maximum -->
+https://github.com/SchoolOfSatoshi/Full-Node-Directory/blob/main/Uganda%20--%20School%20of%20Satoshi/20250809_145122_Original.jpg
 
 ## 🎓 Graduations
 - **Dates of Graduations:**
